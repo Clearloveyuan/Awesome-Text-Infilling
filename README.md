@@ -32,7 +32,7 @@ A curated list of  Text Infilling (Text Generation) and related areas. :-)
 * [Hybrid retrieval-generation reinforced agent for medical image report generation](http://papers.nips.cc/paper/7426-hybrid-retrieval-generation-reinforced-agent-for-medical-image-report-generation.pdf) - Li Y et al, `NIPS 2018`.
 
 ### 2019
-* [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports](https://www.aclweb.org/anthology/P19-1657.pdf) - Jing B et al, `ACL 2019`.
+* [Text Infilling](https://arxiv.org/abs/1901.00158) [code](https://github.com/VegB/Text_Infilling)- Wanrong Zhu et al, `Arxiv 2019`.
 * [Automatic radiology report generation based on multi-view image fusion and medical concept enrichment](https://arxiv.org/pdf/1907.09085) - Yuan et al, `MICCA 2019`.
 * [Addressing data bias problems for chest x-ray image report generation](https://arxiv.org/pdf/1908.02123) - Harzig P et al, `BMVC 2019`.
 * [Knowledge-driven encode, retrieve, paraphrase for medical image report generation](https://www.aaai.org/ojs/index.php/AAAI/article/download/4637/4515) - Li C Y et al, `AAAI 2019`.
