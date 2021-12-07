@@ -24,14 +24,14 @@ A curated list of  Text Infilling (Text Generation) and related areas. :-)
 ### 2017
 * [Mdnet: A semantically and visually interpretable medical image diagnosis network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_MDNet_A_Semantically_CVPR_2017_paper.pdf) - Zhang Z et al, `CVPR 2017`.
 * [Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf) - Wang X et al, `CVPR 2017`.
-* [Tandemnet: Distilling knowledge from medical images using diagnostic reports as optional semantic references](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_MDNet_A_Semantically_CVPR_2017_paper.pdf) - Zhang Z et al, `MICCAI 2017`.-->
+* [Tandemnet: Distilling knowledge from medical images using diagnostic reports as optional semantic references](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_MDNet_A_Semantically_CVPR_2017_paper.pdf) - Zhang Z et al, `MICCAI 2017`.
 
 ### 2018
 * [On the automatic generation of medical imaging reports](https://arxiv.org/pdf/1711.08195) - Jing B et al, `ACL 2018`.
 * [Textray: Mining clinical reports to gain a broad understanding of chest x-rays](https://arxiv.org/pdf/1806.02121) - Laserson J et al, `MICCAI 2018`.
-* [Hybrid retrieval-generation reinforced agent for medical image report generation](http://papers.nips.cc/paper/7426-hybrid-retrieval-generation-reinforced-agent-for-medical-image-report-generation.pdf) - Li Y et al, `NIPS 2018`.
+* [Hybrid retrieval-generation reinforced agent for medical image report generation](http://papers.nips.cc/paper/7426-hybrid-retrieval-generation-reinforced-agent-for-medical-image-report-generation.pdf) - Li Y et al, `NIPS 2018`.-->
 
-Text-Infilling-Gradient-Search
+
 ### 2019
 * [Text Infilling](https://arxiv.org/abs/1901.00158) - Wanrong Zhu et al, `Arxiv 2019`     [code](https://github.com/VegB/Text_Infilling).
 * [Keep Calm and Switch On! Preserving Sentiment and Fluency in Semantic Text Exchange](https://arxiv.org/pdf/1909.00088.pdf) - Steven Y. Feng et al, `ARXIV 2019`.
@@ -49,8 +49,7 @@ Text-Infilling-Gradient-Search
 * [Gradient-guided Unsupervised Lexically Constrained Text Generation](https://aclanthology.org/2020.emnlp-main.701.pdf) - Lei Sha et al, `EMNLP 2020`. [[code]](https://sites.google.com/view/lcgcode/%E9%A6%96%E9%A1%B5)
 
 ### 2021
-* [InFillmore: Frame-Guided Language Generation with Bidirectional Context](https://arxiv.org/pdf/2103.04941.pdf) - Jiefu Ou et al, `ACL 2021`.[code](https://nlp.
-jhu.edu/demos/infillmore)
+* [InFillmore: Frame-Guided Language Generation with Bidirectional Context](https://arxiv.org/pdf/2103.04941.pdf) - Jiefu Ou et al, `ACL 2021`.[code](https://nlp.jhu.edu/demos/infillmore)
 <!--** [A Self-Boosting Framework for Automated Radiographic Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf) - Wang Z et al, `CVPR 2021`.
 * [Cross-modal Memory Networks for Radiology Report Generation](https://aclanthology.org/2021.acl-long.459.pdf) -Chen Z et al, `ACL 2021`
 
