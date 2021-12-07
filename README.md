@@ -44,8 +44,9 @@ A curated list of  Text Infilling (Text Generation) and related areas. :-)
 * [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/pdf/1911.02541) - Zhang Y et al, `arXiv preprint 2019`.
 
 ### 2020
-* [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf) - Chen Z et al, `EMNLP 2020`. [[code]](https://github.com/cuhksz-nlp/R2Gen)
-* [When Radiology Report Generation Meets Knowledge Graph](https://ojs.aaai.org/index.php/AAAI/article/view/6989/6843) - Zhang Y et al, `AAAI 2020`.
+* [Pre-Training Transformers as Energy-Based Cloze Models](https://aclanthology.org/2020.emnlp-main.20.pdf) - Kevin Clark et al, `EMNLP 2020`. [[code]](https://github.com/
+google-research/electra)
+* [Gradient-guided Unsupervised Lexically Constrained Text Generation](https://aclanthology.org/2020.emnlp-main.701.pdf) - Lei Sha et al, `EMNLP 2020`. [[code]](https://sites.google.com/view/lcgcode/%E9%A6%96%E9%A1%B5)
 
 ### 2021
 * [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf) - Liu F et al, `CVPR 2021`.
